@@ -39,10 +39,6 @@ project-folder/
 2. Open `index.html` in your browser.
 3. Click on a navigation item to see the animations in action.
 
-## 🎥 Demo Preview
-
-*Add a screenshot or a GIF showcasing the navigation effect.*
-
 ## 📝 Customization
 
 You can modify the navigation items or styling:
